@@ -41,5 +41,5 @@ Gunakan `CTRL + C` untuk menghentikan proses di terminal.
 
 ---
 
-💡 **Gunakan script ini dengan bijak!**
+💡 **Gunakan script ini setelah mandi!**
 
